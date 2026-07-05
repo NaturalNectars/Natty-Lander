@@ -1,2 +1,0 @@
-# Natty-Lander
-Natty Lander
